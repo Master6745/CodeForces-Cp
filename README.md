@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 7 |
+| 11 | 8 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [combinatorics](#combinatorics) (1)
 - [dp](#dp) (1)
+- [geometry](#geometry) (1)
 - [greedy](#greedy) (7)
 - [implementation](#implementation) (1)
 - [math](#math) (5)
@@ -33,6 +34,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2120B | [Square Pool](https://codeforces.com/contest/2120/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2120/B%20-%20Square%20Pool/solution.cpp) |
 
 ### greedy
 
