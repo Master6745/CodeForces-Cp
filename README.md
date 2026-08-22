@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 9 |
+| 13 | 10 |
 
 ---
 
@@ -17,7 +17,8 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (8)
 - [implementation](#implementation) (1)
-- [math](#math) (6)
+- [math](#math) (7)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 - [two pointers](#two-pointers) (1)
@@ -71,6 +72,13 @@
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 2106C | [Cherry Bomb](https://codeforces.com/contest/2106/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2106/C%20-%20Cherry%20Bomb/solution.cpp) |
 | 2132C1 | [The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2132/C1%20-%20The%20Cunning%20Seller%20(easy%20version)/solution.cpp) |
+| 2204C | [Spring](https://codeforces.com/contest/2204/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2204/C%20-%20Spring/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2204C | [Spring](https://codeforces.com/contest/2204/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2204/C%20-%20Spring/solution.cpp) |
 
 ### sortings
 
