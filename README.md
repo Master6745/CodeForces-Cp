@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 11 |
+| 17 | 11 |
 
 ---
 
@@ -16,13 +16,13 @@
 - [combinatorics](#combinatorics) (1)
 - [dp](#dp) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [implementation](#implementation) (2)
 - [math](#math) (9)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (1)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -64,6 +64,7 @@
 | 2106C | [Cherry Bomb](https://codeforces.com/contest/2106/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2106/C%20-%20Cherry%20Bomb/solution.cpp) |
 | 2124B | [Minimise Sum](https://codeforces.com/contest/2124/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2124/B%20-%20Minimise%20Sum/solution.cpp) |
 | 2132C1 | [The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2132/C1%20-%20The%20Cunning%20Seller%20(easy%20version)/solution.cpp) |
+| 2143B | [Discounts](https://codeforces.com/contest/2143/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2143/B%20-%20Discounts/solution.cpp) |
 | 2188B | [Seats](https://codeforces.com/contest/2188/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2188/B%20-%20Seats/solution.cpp) |
 
 ### implementation
@@ -99,6 +100,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2106C | [Cherry Bomb](https://codeforces.com/contest/2106/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2106/C%20-%20Cherry%20Bomb/solution.cpp) |
+| 2143B | [Discounts](https://codeforces.com/contest/2143/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2143/B%20-%20Discounts/solution.cpp) |
 
 ### strings
 
@@ -111,6 +113,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
+| 2143B | [Discounts](https://codeforces.com/contest/2143/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2143/B%20-%20Discounts/solution.cpp) |
 
 ---
 
