@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 12 |
+| 26 | 12 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (17)
 - [implementation](#implementation) (4)
-- [math](#math) (11)
+- [math](#math) (12)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (4)
 - [strings](#strings) (1)
@@ -97,6 +97,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1256A | [Payment Without Change](https://codeforces.com/contest/1256/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1256/A%20-%20Payment%20Without%20Change/solution.cpp) |
 | 1342A | [Road To Zero](https://codeforces.com/contest/1342/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1342/A%20-%20Road%20To%20Zero/solution.cpp) |
 | 1353C | [Board Moves](https://codeforces.com/contest/1353/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1353/C%20-%20Board%20Moves/solution.cpp) |
 | 1359A | [Berland Poker](https://codeforces.com/contest/1359/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1359/A%20-%20Berland%20Poker/solution.cpp) |
