@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 12 |
+| 27 | 12 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (6)
 - [combinatorics](#combinatorics) (1)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (17)
+- [greedy](#greedy) (18)
 - [implementation](#implementation) (4)
 - [math](#math) (12)
 - [number theory](#number-theory) (3)
@@ -55,6 +55,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1469B | [Red and Blue](https://codeforces.com/contest/1469/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1469/B%20-%20Red%20and%20Blue/solution.cpp) |
 
 ### geometry
 
@@ -71,6 +72,7 @@
 | 1359A | [Berland Poker](https://codeforces.com/contest/1359/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1359/A%20-%20Berland%20Poker/solution.cpp) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1367/B%20-%20Even%20Array/solution.cpp) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
+| 1469B | [Red and Blue](https://codeforces.com/contest/1469/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1469/B%20-%20Red%20and%20Blue/solution.cpp) |
 | 1676D | [X-Sum](https://codeforces.com/contest/1676/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1676/D%20-%20X-Sum/solution.cpp) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
