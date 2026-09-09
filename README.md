@@ -6,23 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 12 |
+| 28 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (6)
+- [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (1)
 - [dp](#dp) (2)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (18)
 - [implementation](#implementation) (4)
-- [math](#math) (12)
-- [number theory](#number-theory) (3)
+- [math](#math) (13)
+- [number theory](#number-theory) (4)
 - [sortings](#sortings) (4)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 - [two pointers](#two-pointers) (3)
 
 ---
@@ -39,6 +39,7 @@
 |---|---------|------------|----------|
 | 1359A | [Berland Poker](https://codeforces.com/contest/1359/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1359/A%20-%20Berland%20Poker/solution.cpp) |
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
+| 1473B | [String LCM](https://codeforces.com/contest/1473/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1473/B%20-%20String%20LCM/solution.cpp) |
 | 1676D | [X-Sum](https://codeforces.com/contest/1676/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1676/D%20-%20X-Sum/solution.cpp) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
 | 2004B | [Game with Doors](https://codeforces.com/contest/2004/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2004/B%20-%20Game%20with%20Doors/solution.cpp) |
@@ -104,6 +105,7 @@
 | 1353C | [Board Moves](https://codeforces.com/contest/1353/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1353/C%20-%20Board%20Moves/solution.cpp) |
 | 1359A | [Berland Poker](https://codeforces.com/contest/1359/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1359/A%20-%20Berland%20Poker/solution.cpp) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1367/B%20-%20Even%20Array/solution.cpp) |
+| 1473B | [String LCM](https://codeforces.com/contest/1473/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1473/B%20-%20String%20LCM/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
@@ -117,6 +119,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
+| 1473B | [String LCM](https://codeforces.com/contest/1473/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1473/B%20-%20String%20LCM/solution.cpp) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 | 2204C | [Spring](https://codeforces.com/contest/2204/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2204/C%20-%20Spring/solution.cpp) |
 
@@ -134,6 +137,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
+| 1473B | [String LCM](https://codeforces.com/contest/1473/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1473/B%20-%20String%20LCM/solution.cpp) |
 
 ### two pointers
 
