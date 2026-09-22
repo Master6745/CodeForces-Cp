@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 14 |
+| 37 | 14 |
 
 ---
 
@@ -20,8 +20,8 @@
 - [dp](#dp) (3)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (20)
-- [implementation](#implementation) (6)
-- [math](#math) (17)
+- [implementation](#implementation) (7)
+- [math](#math) (18)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (4)
 - [strings](#strings) (3)
@@ -111,6 +111,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 82A | [Double Cola](https://codeforces.com/contest/82/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/82/A%20-%20Double%20Cola/solution.cpp) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
 | 1676D | [X-Sum](https://codeforces.com/contest/1676/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1676/D%20-%20X-Sum/solution.cpp) |
@@ -122,6 +123,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 82A | [Double Cola](https://codeforces.com/contest/82/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/82/A%20-%20Double%20Cola/solution.cpp) |
 | 1256A | [Payment Without Change](https://codeforces.com/contest/1256/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1256/A%20-%20Payment%20Without%20Change/solution.cpp) |
 | 1327A | [Sum of Odd Integers](https://codeforces.com/contest/1327/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1327/A%20-%20Sum%20of%20Odd%20Integers/solution.cpp) |
 | 1342A | [Road To Zero](https://codeforces.com/contest/1342/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1342/A%20-%20Road%20To%20Zero/solution.cpp) |
