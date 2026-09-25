@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 14 |
+| 39 | 14 |
 
 ---
 
@@ -14,16 +14,16 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (2)
-- [brute force](#brute-force) (9)
+- [brute force](#brute-force) (10)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (3)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (21)
 - [implementation](#implementation) (7)
-- [math](#math) (19)
+- [math](#math) (20)
 - [number theory](#number-theory) (4)
-- [sortings](#sortings) (4)
+- [sortings](#sortings) (5)
 - [strings](#strings) (3)
 - [two pointers](#two-pointers) (3)
 
@@ -51,6 +51,7 @@
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
 | 1473B | [String LCM](https://codeforces.com/contest/1473/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1473/B%20-%20String%20LCM/solution.cpp) |
 | 1676D | [X-Sum](https://codeforces.com/contest/1676/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1676/D%20-%20X-Sum/solution.cpp) |
+| 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
 | 1906A | [Easy As ABC](https://codeforces.com/contest/1906/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1906/A%20-%20Easy%20As%20ABC/solution.cpp) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
 | 2004B | [Game with Doors](https://codeforces.com/contest/2004/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2004/B%20-%20Game%20with%20Doors/solution.cpp) |
@@ -136,6 +137,7 @@
 | 1618C | [Paint the Array](https://codeforces.com/contest/1618/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1618/C%20-%20Paint%20the%20Array/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
+| 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
 | 2106C | [Cherry Bomb](https://codeforces.com/contest/2106/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2106/C%20-%20Cherry%20Bomb/solution.cpp) |
@@ -158,6 +160,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
+| 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
 | 2060B | [Farmer John's Card Game](https://codeforces.com/contest/2060/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2060/B%20-%20Farmer%20John's%20Card%20Game/solution.cpp) |
 | 2106C | [Cherry Bomb](https://codeforces.com/contest/2106/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2106/C%20-%20Cherry%20Bomb/solution.cpp) |
 | 2143B | [Discounts](https://codeforces.com/contest/2143/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Master6745/CodeForces-Cp/blob/HEAD/2143/B%20-%20Discounts/solution.cpp) |
